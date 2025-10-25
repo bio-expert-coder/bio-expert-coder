@@ -1,4 +1,4 @@
-# 🧬 Bioinformatics Consultant & Scientific Writer | PhD Applied Genetics
+# 🧬 Bioinformatics Consultant & Scientific Writer | PhD Biotechnology applied to veterinary science
 
 ### **[Elevator Pitch: The Bioinformatic Approach]**
 
