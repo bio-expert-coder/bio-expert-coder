@@ -1,6 +1,6 @@
 # 🧬 Bioinformatics Consultant & Scientific Writer | PhD Biotechnology applied to veterinary science
 
-### **[Elevator Pitch: The Bioinformatic Approach]**
+### **The Bioinformatic Approach**
 
 Highly specialized PhD-level researcher focused on transforming complex biological questions into robust computational solutions. I leverage an advanced **bioinformatic approach** to drive data validation, molecular analysis, and problem-solving across applied biology and genetics. My expertise lies in applying quantitative methods to decipher molecular evolution, population structure, and protein dynamics.
 
